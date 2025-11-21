@@ -1,4 +1,5 @@
 **Project Description**
+
 This project focuses on segmenting and analyzing bank customers using Power BI to help a retail financial institution better understand its customer base and make data-driven decisions. The bank provides essential services such as savings accounts, deposits, digital payments, and mobile banking. Despite having large volumes of customer and transaction data, the bank struggled to identify customer behavior patterns, categorize users effectively, and understand which segments required more attention.
 
 Through interactive reports and visual dashboards, this project transforms raw customer data into meaningful insights. The analysis explores key demographics, transaction trends, customer activity levels, and digital engagement patterns. Findings show that the 26–45 age group forms the most active customer segment, digital transactions peak during weekday business hours, and most activities involve small to medium-value transactions.
