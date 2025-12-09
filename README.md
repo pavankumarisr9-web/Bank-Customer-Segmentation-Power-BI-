@@ -9,48 +9,48 @@ The project demonstrates the value of using Power BI for real-time analytics, en
 
 **Tools & Technologies Used**
 
-Power BI Desktop
+- Power BI Desktop
 
-DAX Calculations
+- DAX Calculations
 
-Data Modeling
+- Data Modeling
 
-Interactive Dashboards
+- Interactive Dashboards
 
-ETL (Extract, Transform, Load)
+- ETL (Extract, Transform, Load)
 
-Basic Statistics & Segmentation Techniques
+- Basic Statistics & Segmentation Techniques
 
 **Key Highlights**
 
-Customer demographics analysis (Age, Gender, Region)
+- Customer demographics analysis (Age, Gender, Region)
 
-Identification of high-value and low-engagement customers
+- Identification of high-value and low-engagement customers
 
-Transaction trend analysis (daily, hourly, and value-based)
+- Transaction trend analysis (daily, hourly, and value-based)
 
-Digital banking behavior study
+- Digital banking behavior study
 
-Risk segmentation and customer grouping
+- Risk segmentation and customer grouping
 
-Insights presented using dynamic Power BI dashboards
+- Insights presented using dynamic Power BI dashboards
 
 **What This Project Demonstrates**
 
-Transforming raw banking data into business insights
+- Transforming raw banking data into business insights
 
-Building interactive dashboards for decision-makers
+- Building interactive dashboards for decision-makers
 
-Understanding customer behavior using analytics
+- Understanding customer behavior using analytics
 
-Applying segmentation for customer retention and profitability
+- Applying segmentation for customer retention and profitability
 
-Presenting complex data in a simple and visual format
+- Presenting complex data in a simple and visual format
 
 **Files Included**
 
-Power BI Dashboard (.pbix)
+- Power BI Dashboard (.pbix)
 
-Project Presentation (.pptx)
+- Project Presentation (.pptx)
 
-Raw Dataset (.csv)
+- Raw Dataset (.csv)
